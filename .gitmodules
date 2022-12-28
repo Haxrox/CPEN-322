@@ -1,0 +1,12 @@
+[submodule "322-XSS"]
+	path = 322-XSS
+	url = https://github.com/Haxrox/322-XSS
+[submodule "HaxChat"]
+	path = HaxChat
+	url = https://github.com/Haxrox/HaxChat
+[submodule "CPEN400A-codesamples"]
+	path = CPEN400A-codesamples
+	url = https://github.com/karthikp-ubc/CPEN400A-codesamples
+[submodule "classroom"]
+	path = classroom
+	url = https://github.com/ubc-cpen322-2022/classroom
