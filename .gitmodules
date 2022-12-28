@@ -10,3 +10,5 @@
 [submodule "classroom"]
 	path = classroom
 	url = https://github.com/ubc-cpen322-2022/classroom
+[submodule "DbConnector"]
+	branch = stable
